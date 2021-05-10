@@ -5,7 +5,10 @@ For more information about the WZE method click [here](https://ieeexplore.ieee.o
 
 ***
 
-# Documentation
+## Code
+The implementation of the component through VHDL is provided [here](https://github.com/arigalzi/WorkingZone-encoding/blob/main/code/body.vhd)
+
+## Documentation
 
 The documentation (available only in Italian) includes:
 * specifications of the project [specs](https://github.com/arigalzi/WorkingZone-encoding/tree/main/specifications)
